@@ -2,5 +2,11 @@ Ankit..
 
 Amit..
 
+<<<<<<< HEAD
 
 Sachin.....
+=======
+Nitin....
+ 
+hello....... 
+>>>>>>> 76d58a3da9b392ffe2ccf8283a61752068050989
